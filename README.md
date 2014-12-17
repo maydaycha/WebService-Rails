@@ -10,10 +10,11 @@ Environment
     ruby 2.0.0
     rails 4.0.3
 
-使用 SQL Server
----------------
+SQL Server as Database
+----------------------
+tiny_tds gem
 
-    brew install freetds(for tiny_tds gem)
+    brew install freetds
 
 Automation
 ----------
